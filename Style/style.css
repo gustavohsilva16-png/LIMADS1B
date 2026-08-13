@@ -105,7 +105,7 @@ img {
 
 /* Troca a cor do líquido da poção aplicando um filtro mágico */
 .botao-pocao:hover img {
-  filter: hue-rotate(140deg) saturate(1.8);
+  filter: hue-rotate(140deg) saturate(1.8);/*Aplica o efeito de reverso nas cores*/
 }
 
 footer {
